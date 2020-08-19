@@ -1,3 +1,4 @@
-# Maze Walker
+## Maze Walker
 
-It's a JS game made in JS for a JS game jam
+
+_It's a game made in JS for [JS 31K Games](https://js13kgames.com) jam_ 
